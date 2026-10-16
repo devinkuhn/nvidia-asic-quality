@@ -82,7 +82,7 @@ Shared by users; ECIDs are left out. ASIC quality only compares cards of the sam
 | ufear | Max-Q Workstation Edition | 2159 | 44.8 % | 50700 | 16900 |
 | Festr | Workstation Edition | 2158 | 44.3 % | 53450 | 17150 |
 | Festr | Max-Q Workstation Edition | 2158 | 44.3 % | 46300 | 15750 |
-| dkuhn | Max-Q Workstation Edition | 2158 | 44.3 % | 50750 | 16600 |
+| bob | Max-Q Workstation Edition | 2158 | 44.3 % | 50750 | 16600 |
 | ufear | Max-Q Workstation Edition | 2157 | 43.9 % | 51200 | 17200 |
 | Shieldstar | Workstation Edition | 2156 | 43.5 % | 53200 | 16800 |
 | Festr | Workstation Edition | 2155 | 43.0 % | 48950 | 16000 |
@@ -90,9 +90,9 @@ Shared by users; ECIDs are left out. ASIC quality only compares cards of the sam
 | Shieldstar | Max-Q Workstation Edition | 2153 | 42.1 % | 49900 | 16400 |
 | Festr | Workstation Edition | 2152 | 41.7 % | 53350 | 17400 |
 | crowbill | Workstation Edition | 2151 | 41.3 % | 50150 | 16150 |
-| dkuhn | Max-Q Workstation Edition | 2150 | 40.8 % | 48850 | 16000 |
+| bob | Max-Q Workstation Edition | 2150 | 40.8 % | 48850 | 16000 |
 | Shieldstar | Workstation Edition | 2149 | 40.4 % | 51050 | 16450 |
-| dkuhn | Max-Q Workstation Edition | 2149 | 40.4 % | 54550 | 18000 |
+| bob | Max-Q Workstation Edition | 2149 | 40.4 % | 54550 | 18000 |
 | ufear | Max-Q Workstation Edition | 2148 | 40.0 % | 61650 | 21000 |
 | Festr | Workstation Edition | 2146 | 39.1 % | 47800 | 15250 |
 | Festr | Workstation Edition | 2146 | 39.1 % | 44350 | 14550 |
@@ -118,7 +118,7 @@ Shared by users; ECIDs are left out. ASIC quality only compares cards of the sam
 | Festr | Workstation Edition | 2117 | 26.4 % | 42150 | 14050 |
 | Shieldstar | Max-Q Workstation Edition | 2116 | 25.9 % | 52300 | 17050 |
 | Festr | Workstation Edition | 2113 | 24.6 % | 40500 | 13100 |
-| dkuhn | Max-Q Workstation Edition | 2110 | 23.3 % | 50450 | 16700 |
+| bob | Max-Q Workstation Edition | 2110 | 23.3 % | 50450 | 16700 |
 | Shieldstar | Workstation Edition | 2109 | 22.8 % | 58450 | 18900 |
 | Festr | Workstation Edition | 2102 | 19.8 % | 40750 | 13500 |
 | Festr | Workstation Edition | 2069 | 5.3 % | 36600 | 12150 |
@@ -131,18 +131,18 @@ workstation-1 41.3 %, 27.7 %, 47.4 %, 43.5 %; workstation-2 53.6 %, 46.1 %, 31.6
 
 | User | GPU | Speedo | ASIC quality | IDDQ NVVDD | IDDQ MSVDD |
 |---|---|---:|---:|---:|---:|
-| dkuhn | GB10 | 2338 | 79.9 % | 12642 | 4572 |
-| dkuhn | GB10 | 2336 | 79.2 % | 12752 | 4574 |
+| bob | GB10 | 2338 | 79.9 % | 12642 | 4572 |
+| bob | GB10 | 2336 | 79.2 % | 12752 | 4574 |
 | el8 | GB10 | 2310 | 69.1 % | 13294 | 4632 |
-| dkuhn | GB10 | 2291 | 61.8 % | 10746 | 3838 |
+| bob | GB10 | 2291 | 61.8 % | 10746 | 3838 |
 | el8 | GB10 | 2270 | 53.7 % | 10678 | 3962 |
 | el8 | GB10 | 2259 | 49.4 % | 10326 | 3690 |
-| dkuhn | GB10 | 2243 | 43.3 % | 9702 | 3316 |
-| dkuhn | GB10 | 2225 | 36.3 % | 10670 | 3810 |
-| dkuhn | GB10 | 2212 | 31.3 % | 7408 | 2436 |
-| dkuhn | GB10 | 2210 | 30.5 % | 10672 | 3610 |
+| bob | GB10 | 2243 | 43.3 % | 9702 | 3316 |
+| bob | GB10 | 2225 | 36.3 % | 10670 | 3810 |
+| bob | GB10 | 2212 | 31.3 % | 7408 | 2436 |
+| bob | GB10 | 2210 | 30.5 % | 10672 | 3610 |
 | el8 | GB10 | 2201 | 27.1 % | 12120 | 4162 |
-| dkuhn | GB10 | 2200 | 26.7 % | 10192 | 3350 |
+| bob | GB10 | 2200 | 26.7 % | 10192 | 3350 |
 
 ### Ada
 
