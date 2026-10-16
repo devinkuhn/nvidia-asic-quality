@@ -70,6 +70,7 @@ Shared by users; ECIDs are left out. ASIC quality only compares cards of the sam
 | crowbill | Workstation Edition | 2171 | 50.0 % | 56100 | 17250 |
 | Festr | Workstation Edition | 2171 | 50.0 % | 54800 | 18250 |
 | Festr | Workstation Edition | 2171 | 50.0 % | 57100 | 18400 |
+| bob | Workstation Edition | 2171 | 50.0 % | 61200 | 19650 |
 | Festr | Max-Q Workstation Edition | 2170 | 49.6 % | 49050 | 16500 |
 | Panchovix | Max-Q Workstation Edition | 2169 | 49.2 % | 61800 | 20400 |
 | Festr | Workstation Edition | 2168 | 48.7 % | 60500 | 19650 |
@@ -170,6 +171,7 @@ workstation-1 41.3 %, 27.7 %, 47.4 %, 43.5 %; workstation-2 53.6 %, 46.1 %, 31.6
 | GeForce RTX 5070 (Windows) | 2169 | 2010.3–2291.4 | 56.5 % | 14350 | 6500 |
 | GeForce RTX 4090 (Windows) | 1903 | 1874.4–2124.3 | 11.4 % | 28050 | 97900 |
 | RTX A2000 (Windows) | 1815 | 1690.6–1972.6 | 44.1 % | 10100 | 5150 |
+| GeForce RTX 5090 (bob) | 2188 | 2018.9–2284.9 | 63.6 % | 54700 | 17550 |
 
 ## License
 
